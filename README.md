@@ -1,7 +1,13 @@
 # 8 Git Commands You Should Know 
 This is the repository for the LinkedIn Learning course 8 Git Commands You Should Know. The full course is available from [LinkedIn Learning][lil-course-url].
 
+<<<<<<< Updated upstream
 ![8 Git Commands You Should Know ][lil-thumbnail-url]
+=======
+- Hello World By Davenchy!!!!
+
+![1667324559752](https://user-images.githubusercontent.com/25848438/200744297-16c76d19-bb0a-4ca1-9119-859077ce385b.jpeg)
+>>>>>>> Stashed changes
 
 If you’re a software developer, you probably already know that Git is one of the most useful version control systems out there. But while most developers have mastered the basics of Git, it can be a bit harder to take your skills to the next level and become an advanced Git user. In this course, instructor Ronnie Sheer shows you how to make the move from intermediate Git developer to the realm of finely tuned, source control expert.<br><br>Learn eight power-user Git commands that can save you time, prevent bugs, and more. Find out how to increase your productivity as well as minimize your moments of frustration. Ronnie walks you through a few basic tricks like stashing and adding changes, and then turns to more advanced techniques, such as undoing commits, reverting, and setting up precommit hooks. Test out your new skills with Git-command challenges along the way.
 <br><br>This course is integrated with GitHub Codespaces, an instant cloud developer environment that offers all the functionality of your favorite IDE without the need for any local machine setup. With GitHub Codespaces, you can get hands-on practice from any machine, at any time—all while using a tool that you’ll likely encounter in the workplace. Check out the [Using GitHub Codespaces with this course][gcs-video-url] video to learn how to get started. 
